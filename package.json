@@ -1,8 +1,9 @@
 {
   "name": "word_counter_app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "type": "module",
+  "bin": "./app.js",
   "repository": "https://github.com/HamzaAhmedSheikh/project05_word_counter_app.git",
   "author": "HamzaAhmedSheikh <hamzaahmedsheikh313@gmail.com>",
   "license": "MIT",
